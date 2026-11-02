@@ -1,0 +1,19 @@
+# Blender temporary and backup files
+*.blend1
+*.blend2
+*.blend@
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
